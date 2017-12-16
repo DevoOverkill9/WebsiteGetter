@@ -4,3 +4,4 @@ Basic website information gathering program
 2) you can use it in windows , linux or mac
 3) just type your url like : http://www.example.com and click submit
 
+The compiled program is located in dist/ folder
